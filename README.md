@@ -40,3 +40,15 @@ adjust the images of the post section
 ## img/profile/profile.png
 - store the image for the top of the landing page - seems to have to be a png file not jpg
 
+## save and check edits
+After making the necessary changes with editor to the info files, save changes and check the changes by running a local copy of the with local host.
+- $ git add —all
+- $ git commit -m “inital comment”
+- $ git push -u origin master
+
+## Run on local host
+- $ bundle exec jekyll serve
+
+- http://localhost:4000
+
+
