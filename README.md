@@ -4,7 +4,7 @@ make modifications on the local copies and check on local host
 
 push the final version to remote repository and make “settings” changes
 
-##In the Theme repository
+## In the Theme repository
 ls
 CNAME  Gemfile	README.md 	_layouts	css		   index.html	screenshot.png
 Gemfile.lock	 _config.yml	_posts		feed.xml js		     style.css
@@ -12,7 +12,7 @@ LICENCE		    _includes	   _site		  img		   mail
 
 The email in the config.ml file is the email where interested party inquiries are sent 
 
-##_config.yml
+## _config.yml
 adjust color scheme of theme
 adjust some of the site settings
 	title:      is the title of the web page
@@ -21,11 +21,11 @@ adjust some of the site settings
 	keywords:   is the list of words used for CRO optimization
 	skills:     is the list of skills presented under the title on the opening page
 	
-##_posts
+## _posts
 adjust the images of the post section
 	image ratio of 5:4 works well for spacing
 
-##_includes   
+## _includes   
 - about.html - 
 -- “about” content location html code generator
 - contact.html -
@@ -34,9 +34,9 @@ adjust the images of the post section
 -- “_posts” html code generator with post image transferred
 
 
-##img portfolio 
+## img portfolio 
 - store the images for the posts section
 
-##img profile
+## img profile
 - store the image for the top of the landing page
 
