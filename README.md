@@ -34,9 +34,9 @@ adjust the images of the post section
 -- “_posts” html code generator with post image transferred
 
 
-## img portfolio 
+## img/portfolio/???????.png 
 - store the images for the posts section
 
-## img profile
-- store the image for the top of the landing page
+## img/profile/profile.png
+- store the image for the top of the landing page - seems to have to be a png file not jpg
 
