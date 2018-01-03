@@ -15,11 +15,11 @@ The email in the config.ml file is the email where interested party inquiries ar
 ## _config.yml
 adjust color scheme of theme
 adjust some of the site settings
-	title:      is the title of the web page
-	email:      is the email where interested party inquiries are sent
-	url:        is the url of the web page as specified in CNAME and declared in 
-	keywords:   is the list of words used for CRO optimization
-	skills:     is the list of skills presented under the title on the opening page
+-	title:      is the title of the web page
+-	email:      is the email where interested party inquiries are sent
+-	url:        is the url of the web page as specified in CNAME and declared in 
+-	keywords:   is the list of words used for CRO optimization
+-	skills:     is the list of skills presented under the title on the opening page
 	
 ## _posts
 adjust the images of the post section
