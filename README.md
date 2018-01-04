@@ -14,7 +14,7 @@ The individual skill terms are accumlated as per total number of job postings ra
   * hadoop_dict,
     * Hadoop’,MapReduce,Spark’,Pig,Hive,Shark,Oozie,ZooKeeper,Flume,Mahout
   * database_dict ,
-    *SQL,NoSQL,HBase,Cassandra,MongoDB
+    * SQL,NoSQL,HBase,Cassandra,MongoDB
 
 ### Output 
 - Number of job postings found and the corresponding number of pages
