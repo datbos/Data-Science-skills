@@ -1,10 +1,12 @@
 ## Deep Learning Toolkit (DLTK) for Medical Imaging
-[![Gitter](https://badges.gitter.im/DLTK/DLTK.svg)](https://gitter.im/DLTK/DLTK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<!---[![Gitter](https://badges.gitter.im/DLTK/DLTK.svg)](https://gitter.im/DLTK/DLTK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Coverage Status](https://coveralls.io/repos/github/DLTK/DLTK/badge.svg?branch=master)](https://coveralls.io/github/DLTK/DLTK?branch=dev)
-[![Build Status](https://travis-ci.org/DLTK/DLTK.svg?branch=master)](https://travis-ci.org/DLTK/DLTK)
+[![Build Status](https://travis-ci.org/DLTK/DLTK.svg?branch=master)](https://travis-ci.org/DLTK/DLTK)--->
 
 ![DLTK logo](logo.png)
 
+Data Science Skills notebook is a jupyter notebook written in python to data mine internet postings of "Data Science" job positions for a given city and count the number of times given data science skill terms appear over all job postings.
+Natural language processing (NLP) is used to do the 
 DLTK is a neural networks toolkit written in python, on top of [TensorFlow](https://github.com/tensorflow/tensorflow). It is developed to enable fast prototyping with a low entry threshold and ensure reproducibility in image analysis applications, with a particular focus on medical imaging. Its goal is  to provide the community with state of the art methods and models and to accelerate research in this exciting field.
 
 ### Documentation
