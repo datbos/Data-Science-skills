@@ -6,8 +6,8 @@
 ![DLTK logo](logo.png)
 
 Data Science Skills notebook is a jupyter notebook written in python to data mine internet postings of "Data Science" job positions for a given city and count the number of times given data science skill terms appear over all job postings.
-Natural language processing (NLP) is used to do the 
-DLTK is a neural networks toolkit written in python, on top of [TensorFlow](https://github.com/tensorflow/tensorflow). It is developed to enable fast prototyping with a low entry threshold and ensure reproducibility in image analysis applications, with a particular focus on medical imaging. Its goal is  to provide the community with state of the art methods and models and to accelerate research in this exciting field.
+
+The Natural language processing (NLP) uses BeautifulSoup for HTML parsing and NLTK is used for stopword filtering and word tokenizing. The goal is to provide information on which tool are most utilized or desired by the community not necessarily the state of the art methods and models and to determine which areas to focus on for joining the research in the data science field.
 
 ### Documentation
 The DLTK API can be found [here](https://dltk.github.io/)
