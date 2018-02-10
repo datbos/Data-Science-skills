@@ -1,5 +1,6 @@
 ## Data-Science-skills
 ![Datbos logo](logo.png)
+#     
 This algorithm assembles job postings of a specified job title and scans the content for specific key job skill terms associated with job title to determine the frequency of term usage and associated "importance" of the skill. 
 ### Metrics
 The individual skill terms are accumlated as per total number of job postings rather than total number of occurances to account for the multiple occurances in the same postings though still reflecting the added "importance" of repeated mention.
