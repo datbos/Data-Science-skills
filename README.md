@@ -1,6 +1,23 @@
 ## Data-Science-skills
 ![Datbos logo](logo.png)
-#     
+# 
+# MNIST distributed training with TensorFlow  
+
+## Contents
+
+1. [Background](#Background)
+1. [Setup](#Setup)
+1. [Data](#Data)
+1. [Train](#Train)
+1. [Host](#Host)
+1. [Predict](#Predict)
+
+
+## Background
+
+The **SageMaker Python SDK** helps you deploy your models for training and hosting in optimized, productions ready containers in SageMaker. The SageMaker Python SDK is easy to use, modular, extensible and compatible with TensorFlow and MXNet. This tutorial focuses on how to create a convolutional neural network model to train the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) using **TensorFlow distributed training**.
+
+
 This algorithm assembles job postings of a specified job title and scans the content for specific key job skill terms associated with job title to determine the frequency of term usage and associated "importance" of the skill. 
 ### Metrics
 The individual skill terms are accumlated as per total number of job postings rather than total number of occurances to account for the multiple occurances in the same postings though still reflecting the added "importance" of repeated mention.
